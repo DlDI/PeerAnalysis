@@ -51,5 +51,6 @@ The coding will be done by the means of Python, and we would like to have a docu
 ## License
 
 ## Contact Information
-* Mohamed Didi, Mohamed.didi@centrale-marseille.fr
 * Romain Marlet, romain.marlet@centrale-med.fr
+* Mohamed Didi, Mohamed.didi@centrale-marseille.fr
+
